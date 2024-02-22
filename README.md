@@ -1,16 +1,26 @@
-### Hi there 👋
+[![MasterHead](https://elearners365.com/wp-content/uploads/2021/03/python_for_data_science_and_machine_learning_1800_1200.png
+)
 
-<!--
-**FASLAN2135/FASLAN2135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Merhaba 👋, ben Ferhat ASLAN</h1><h3 align="center">Türkiye'den tutkulu bir veri bilimcisiyim</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=faslan2135&label=Profile%20views&color=0e75b6&style=flat" alt="faslan2135" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faslan2135" alt="faslan2135" /></a> </p><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<
+
+h3 align="left">Benimle bağlantı kurun:</h3><p align="left"><a href="https://linkedin.com/in/ferhat-aslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferhat-aslan" height="30" width="40" /></a>
+
+
+<a href="https://kaggle.com/ferhat aslan211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ferhat aslan211" height="30" width="40" /></a>
+<a href="https://instagram.com/aslaan.ferhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslaan.ferhat" height="30" width="40" /></a></p><h3 align="left">Diller ve Araçlar:</h3><p align="left">
+
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" genişlik = "40" yükseklik = "40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </s>
+
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=faslan2135&show_icons=true&locale=en" alt="faslan2135" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faslan2135&" alt="faslan2135" /></p>
+
+
+
