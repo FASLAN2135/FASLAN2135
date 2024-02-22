@@ -8,12 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faslan2135" alt="faslan2135" /></a> </p><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<
 
-h3 align="left">Benimle bağlantı kurun:</h3><p align="left"><a href="https://linkedin.com/in/ferhat-aslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferhat-aslan" height="30" width="40" /></a>
-
-
-<a href="https://kaggle.com/ferhat aslan211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ferhat aslan211" height="30" width="40" /></a>
 <a href="https://instagram.com/aslaan.ferhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslaan.ferhat" height="30" width="40" /></a></p><h3 align="left">Diller ve Araçlar:</h3><p align="left">
 
 
